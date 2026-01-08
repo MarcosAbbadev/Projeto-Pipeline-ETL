@@ -131,6 +131,7 @@ Marcos Abbade
 Estudante de Tecnologia
 
 LinkedIn: https://www.linkedin.com/in/marcos-abbade/
+
 GitHub: https://github.com/MarcosAbbadev/
 
 Projeto desenvolvido para fins educacionais e de portfólio.
