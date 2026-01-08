@@ -135,4 +135,3 @@ LinkedIn: https://www.linkedin.com/in/marcos-abbade/
 GitHub: https://github.com/MarcosAbbadev/
 
 Projeto desenvolvido para fins educacionais e de portfólio.
-fea08fe (Commit inicial: pipeline ETL com IA generativa)
