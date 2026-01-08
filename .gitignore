@@ -1,0 +1,44 @@
+# ---------------------------
+# Python
+# ---------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.swp
+
+# ---------------------------
+# Virtual Environment
+# ---------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# ---------------------------
+# IDE / Editor
+# ---------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ---------------------------
+# Sistema Operacional
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Arquivos de log
+# ---------------------------
+*.log
+
+# ---------------------------
+# Configurações locais / secrets
+# ---------------------------
+*.env
+.env
+*.key
+*.pem
